@@ -27,7 +27,6 @@ public class Task_3 {
         userData.put("M", 1000);
 
         System.out.println(converter(userData, userNum));
-        ;
 
     }
 
